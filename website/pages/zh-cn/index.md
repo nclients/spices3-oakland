@@ -247,7 +247,7 @@ sections:
       - "關於我們"
     titleColor: "#000000"
     description: 
-      - "川菜在国内外都很有名。如果你想品尝最正宗的川菜，除了成都和重庆，最正宗的川菜还得在Spices 3品尝。"
+      - "川菜在国内外都很有名。如果你想品尝最正宗的川菜，除了成都和重庆，最正宗的川菜还得在Spices 3！"
       - "无论您是常客还是第一次光临，Spices 3的老板和所有员工都会热烈欢迎您。我们努力创造一个最整洁、最干净的用餐环境，并保证为您提供友好和及时的服务。我们将竭尽所能满足您的所有需求，让您感受到宾至如归。"
     descriptionColor: "#000000"
 # # feature - Map + Text section
@@ -405,10 +405,10 @@ footer:
 
   # optional
   seo:
-    metaDescription: "Order Online for Takeout / Pickup. Here at Spices 3 辣妹子 - Best Food Today - Oakland you'll experience delicious Chinese, Asian cuisine. Try our mouth-watering dishes, carefully prepared with fresh ingredients!"
-    keywords: "spices 3,Asian cuisine"
+    metaDescription: "欢迎在线订购外卖或自取。如果你想品尝最正宗的川菜，除了成都和重庆，在奥克兰最正宗的川菜还得在Spices 3！"
+    keywords: "spices 3，最好吃的川菜，奥克兰四川美食，spices 3 辣妹子"
     img: "Spices 3 辣妹子 - Best Food Today.webp"
-    thisPageUrl: "https://www.spices3-oakland.com"
-    locale: "en_US" # zh_TW | zh_CN
+    thisPageUrl: "https://www.spices3-oakland.com/zh-cn"
+    locale: "zh_CN" # zh_TW | zh_CN
 ---
 <!-- hello world -->
